@@ -18,7 +18,7 @@ Controle de exercícios:
 - [x] Exercício 1
 - [X] Exercício 2
 - [X] Exercício 3
-- [ ] Exercício 4
+- [X] Exercício 4
 - [ ] Exercício 5
 - [ ] Exercício 6
 - [ ] Exercício 7
