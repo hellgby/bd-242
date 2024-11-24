@@ -17,7 +17,7 @@ Controle de atividades:
 Controle de exercícios:
 - [x] Exercício 1
 - [X] Exercício 2
-- [ ] Exercício 3
+- [X] Exercício 3
 - [ ] Exercício 4
 - [ ] Exercício 5
 - [ ] Exercício 6
