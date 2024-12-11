@@ -5,8 +5,8 @@
 Controle de atividades:
 - [x] Atividade 1
 - [X] Atividade 2
-- [ ] Atividade 3
-- [ ] Atividade 4
+- [X] Atividade 3
+- [X] Atividade 4
 - [ ] Atividade 5
 - [ ] Atividade 6
 - [ ] Atividade 7
