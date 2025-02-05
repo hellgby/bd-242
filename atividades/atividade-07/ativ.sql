@@ -42,7 +42,7 @@ CREATE TABLE `TB_CLIENTES` (
 --
 
 INSERT INTO `TB_CLIENTES` (`id`, `nome`, `sobrenome_contato`, `nome_contato`, `telefone`, `endereco1`, `endereco2`, `cidade`, `estado`, `cep`, `pais`, `empregado_id`, `limite_credito`) VALUES
-(1, 'Lívia', 'Silva', 'Levi', 12121212, 'Rua Charli XCX, 2670', NULL, 'Cascavel', 'Ceará', 69960000, 'Brasil', 1, 10000);
+(1, 'João', 'Henrique', 'João', 12121212, 'Rua Doutor Marcos Túlio Cardoso, 2670', NULL, 'Feijó', 'Acre', 69960000, 'Brasil', 1, 10000);
 
 --
 -- Tabela `TB_DETALHES_DO_PEDIDO`
@@ -83,7 +83,7 @@ CREATE TABLE `TB_EMPREGADOS` (
 --
 
 INSERT INTO `TB_EMPREGADOS` (`id`, `sobrenome`, `nome`, `extensao`, `email`, `escritorio_id`, `relatorio`, `cargo`) VALUES
-(1, 'Lula da Silva', 'Lula', '100', 'lulasilvadivo@gmail.com', 1, 1, 'Gerente');
+(1, 'Ricarte Evangelista', 'Isaac', '100', 'isaac@gmail.com', 1, 1, 'Gerente');
 
 --
 -- Tabela `TB_ESCRITORIOS`
