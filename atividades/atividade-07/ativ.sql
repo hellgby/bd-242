@@ -1,3 +1,6 @@
+-- Ana Lívia Cândido Carneiro * P4 Informática 
+-- Prof. Taveira * Banco de Dados
+
 -- phpMyAdmin SQL Dump
 -- version 5.2.2
 -- https://www.phpmyadmin.net/
